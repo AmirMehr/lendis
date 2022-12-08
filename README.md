@@ -6,10 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 For docker only use: `docker-compose up` and then open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## As a HTML, JS, CSS project
-Just open the `index.html` file inside the `/build` folder. Surely it should be on a server.
-
-
 ## Available Scripts
 
 In the project directory, you can run:
